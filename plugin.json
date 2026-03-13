@@ -1,0 +1,7 @@
+{
+  "name": "vk-bridge",
+  "version": "0.1.0",
+  "description": "Bridges Superpowers planning workflow to Vibe Kanban issue creation and subagent execution. Eliminates detail loss when translating plans into board issues.",
+  "author": "Adam Buechler",
+  "keywords": ["vibe-kanban", "superpowers", "planning", "issues", "subagents"]
+}
